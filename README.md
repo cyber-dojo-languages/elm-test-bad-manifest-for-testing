@@ -1,1 +1,1 @@
-# elm-test
+# elm-test-bad-manifest-for-testing
